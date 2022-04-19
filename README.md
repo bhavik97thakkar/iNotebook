@@ -12,7 +12,7 @@ HTML
 CSS
 Javascript
 ReactJS concepts such as Router, Hooks, Props, State, Redux,
-Nodejs
-ExpressJS
-MongoDb
+Node JS,
+Express JS,
+MongoDb,
 Firebase (for hosting) 
