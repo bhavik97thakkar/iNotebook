@@ -8,9 +8,9 @@ https://inotebook-58d5d.web.app/
 
 In this project i have used:
 
-HTML
-CSS
-Javascript
+HTML,
+CSS,
+Javascript,
 ReactJS concepts such as Router, Hooks, Props, State, Redux,
 Node JS,
 Express JS,
