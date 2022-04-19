@@ -11,7 +11,7 @@ In this project i have used:
 HTML
 CSS
 Javascript
-ReactJS concepts such as Router, Hooks, Props, State, Redux
+ReactJS concepts such as Router, Hooks, Props, State, Redux,
 Nodejs
 ExpressJS
 MongoDb
